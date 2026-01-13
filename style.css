@@ -10,7 +10,8 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
-.main-box {
+.main-box 
+{
     background-color: rgba(255, 255, 255, 0.9);
     padding: 10px 20px;
     border-radius: 15px;
@@ -20,19 +21,24 @@ body {
     font-size: 14px;
     word-break: break-all;
 }
-.main-box h1 {
+
+.main-box h1
+{
     font-size: 20px;
     margin-top: 5px;
     margin-bottom: 5px;
 }
-.main-box h3, .main-box p {
+.main-box h3, .main-box p 
+{
     margin: 5px 0;
 }
-.main-box p {
+.main-box p 
+{
     font-size: 11px;
     line-height: 1.2;
 }
-input {
+input 
+{
     padding: 8px;
     width: 85%;
     margin-bottom: 5px;
@@ -40,7 +46,8 @@ input {
     border-radius: 5px;
     font-size: 13px;
 }
-button {
+button 
+{
     padding: 8px 15px;
     width: 100%;
     background-color: #282829;
@@ -51,10 +58,12 @@ button {
     font-size: 14px;
     margin-bottom: 5px;
 }
-button:hover {
-    background-color: #0056b3;
+button:hover 
+{
+    background-color: #000000;
 }
-hr {
+hr 
+{
     margin: 5px 0;
     border: 0;
     border-top: 1px solid #ccc;
